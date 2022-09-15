@@ -1,4 +1,4 @@
-# snake-game-js
+# Snake-game-js
 Snake game on native JS code
 
 
